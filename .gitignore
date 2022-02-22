@@ -2,3 +2,6 @@ __pycache__
 debugging
 .vscode
 stuff
+dist
+*.egg-info/
+*.egg
