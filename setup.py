@@ -7,7 +7,7 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='shaapes',
-    version='0.0.0.dev0',
+    version='0.0.0.dev1',
     description='A graphical shape based esolang',
     long_description=long_description,
     long_description_content_type='text/markdown',
